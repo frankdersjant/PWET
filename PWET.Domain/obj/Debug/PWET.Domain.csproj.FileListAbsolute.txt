@@ -1,0 +1,5 @@
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Domain\bin\Debug\PWET.Domain.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Domain\bin\Debug\PWET.Domain.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Domain\obj\Debug\PWET.Domain.csproj.CoreCompileInputs.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Domain\obj\Debug\PWET.Domain.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Domain\obj\Debug\PWET.Domain.pdb

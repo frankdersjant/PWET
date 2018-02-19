@@ -1,0 +1,20 @@
+D:\CODE\Web Api Lab\PWET\V5\PWET.DTO\bin\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V5\PWET.DTO\bin\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V5\PWET.DTO\obj\Debug\PWET.DTO.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V5\PWET.DTO\obj\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V5\PWET.DTO\obj\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.DTO\bin\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.DTO\bin\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.DTO\obj\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.DTO\obj\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.DTO\bin\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.DTO\bin\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.DTO\obj\Debug\PWET.DTO.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.DTO\obj\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.DTO\obj\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.DTO\bin\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.DTO\bin\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.DTO\obj\Debug\PWET.DTO.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.DTO\obj\Debug\PWET.DTO.csproj.CoreCompileInputs.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.DTO\obj\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.DTO\obj\Debug\PWET.DTO.pdb

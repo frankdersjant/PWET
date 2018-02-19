@@ -1,0 +1,66 @@
+﻿@model PWET.Domain.ExpenseGroup
+
+<h2>Details ExpenseGroup</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+    </dl>
+</div>
+<h4>Registered Expenses</h4>
+
+<p>
+    @Html.ActionLink("Add an expense", "Create", "Expense", new { expenseGroupId = Model.Id }, null)
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Description
+        </th>
+        <th>
+            Date
+        </th>
+        <th>
+            Amount
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.Expenses)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date, "ShortDateTime")
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Expense", new { expenseGroupId = item.ExpenseGroupId, id = item.Id }, null) |
+                @Html.ActionLink("Delete", "Delete", "Expense", new { expenseGroupId = item.ExpenseGroupId, id = item.Id }, null)
+            </td>
+        </tr>
+    }
+
+</table>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
+

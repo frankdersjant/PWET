@@ -1,0 +1,40 @@
+D:\CODE\Web Api Lab\PWET\V5\PWET.Repo\obj\Debug\PWET.Repo.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V11\PWET.Repo\bin\Debug\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V11\PWET.Repo\bin\Debug\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Repo\bin\Debug\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Repo\bin\Debug\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Repo\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Repo\bin\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Repo\bin\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Repo\bin\Debug\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Repo\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Repo\obj\Debug\PWET.Repo.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V11\PWET.Repo\obj\Debug\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Repo\obj\Debug\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Repo\bin\Debug\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Repo\bin\Debug\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Repo\bin\Debug\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Repo\bin\Debug\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Repo\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Repo\bin\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Repo\bin\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Repo\bin\Debug\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Repo\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Repo\obj\Debug\PWET.Repo.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Repo\obj\Debug\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Repo\obj\Debug\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\obj\Debug\PWET.Repo.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\obj\Debug\PWET.Repo.csproj.CoreCompileInputs.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\bin\Debug\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\bin\Debug\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\bin\Debug\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\bin\Debug\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\bin\Debug\PWET.Domain.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\bin\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\bin\Debug\PWET.Domain.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\bin\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\bin\Debug\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\obj\Debug\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Repo\obj\Debug\PWET.Repo.pdb

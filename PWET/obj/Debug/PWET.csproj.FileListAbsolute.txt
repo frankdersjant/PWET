@@ -1,0 +1,604 @@
+D:\CODE\Web Api Lab\PWET\V5\PWET\obj\Debug\PWET.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\roslyn\csc.exe
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\roslyn\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\roslyn\vbc.exe
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\roslyn\VBCSCompiler.exe
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\roslyn\VBCSCompiler.exe.config
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\PWET.dll.config
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\PWET.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\PWET.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\AutoMapper.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\EntityFramework.SqlServer.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Hosting.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Http.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Razor.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.DotNet.Cli.Utils.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.DotNet.InternalAbstractions.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.DotNet.ProjectModel.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.EntityFrameworkCore.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.CommandLineUtils.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Configuration.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.DependencyModel.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Logging.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.ObjectPool.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Options.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Primitives.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Net.Http.Headers.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Practices.ServiceLocation.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Newtonsoft.Json.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Common.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Configuration.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.DependencyResolver.Core.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Frameworks.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.LibraryModel.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Packaging.Core.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Packaging.Core.Types.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Packaging.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.ProjectModel.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Protocol.Core.Types.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Protocol.Core.v3.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Repositories.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.RuntimeModel.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Versioning.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Remotion.Linq.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\StructureMap.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\StructureMap.Net4.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\StructureMap.Web.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Buffers.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Composition.AttributedModel.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Composition.Convention.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Composition.Hosting.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Composition.Runtime.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Composition.TypedParts.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Interactive.Async.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Linq.Dynamic.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Net.Http.Formatting.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Numerics.Vectors.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Text.Encodings.Web.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Threading.Tasks.Extensions.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Web.Http.WebHost.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\WebActivatorEx.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Build.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Build.Framework.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Build.Tasks.Core.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Build.Engine.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Build.Utilities.Core.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\AutoMapper.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\EntityFramework.SqlServer.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Hosting.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Http.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Razor.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.CodeAnalysis.Workspaces.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.EntityFrameworkCore.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.CommandLineUtils.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Configuration.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Logging.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.ObjectPool.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Options.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Extensions.Primitives.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Net.Http.Headers.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.Practices.ServiceLocation.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Core.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Templating.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Utils.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Newtonsoft.Json.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Common.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Configuration.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.DependencyResolver.Core.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Frameworks.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.LibraryModel.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Packaging.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Packaging.Core.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Packaging.Core.Types.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.ProjectModel.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Protocol.Core.Types.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Protocol.Core.v3.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Repositories.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.RuntimeModel.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\NuGet.Versioning.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\Remotion.Linq.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\StructureMap.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\StructureMap.Net4.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\StructureMap.Web.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Composition.AttributedModel.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Composition.Convention.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Composition.Hosting.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Composition.Runtime.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Composition.TypedParts.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Interactive.Async.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Numerics.Vectors.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Text.Encodings.Web.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Threading.Tasks.Extensions.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Net.Http.Formatting.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\bin\System.Web.Http.WebHost.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET\obj\Debug\PWET.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V11\PWET\obj\Debug\PWET.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET\obj\Debug\PWET.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\roslyn\csc.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\roslyn\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\roslyn\vbc.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\roslyn\VBCSCompiler.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\roslyn\VBCSCompiler.exe.config
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\PWET.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\PWET.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\PWET.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\AttributeRouting.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\AttributeRouting.Web.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\AttributeRouting.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\AutoMapper.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\EntityFramework.SqlServer.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Marvin.JsonPatch.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Hosting.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Http.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Razor.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.DotNet.Cli.Utils.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.DotNet.InternalAbstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.DotNet.ProjectModel.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.EntityFrameworkCore.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.CommandLineUtils.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Configuration.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.DependencyModel.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Logging.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.ObjectPool.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Options.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Primitives.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Net.Http.Headers.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Practices.ServiceLocation.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Newtonsoft.Json.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Common.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Configuration.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.DependencyResolver.Core.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Frameworks.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.LibraryModel.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Packaging.Core.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Packaging.Core.Types.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Packaging.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.ProjectModel.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Protocol.Core.Types.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Protocol.Core.v3.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Repositories.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.RuntimeModel.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Versioning.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Remotion.Linq.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\StructureMap.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\StructureMap.Net4.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\StructureMap.Web.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Buffers.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Composition.AttributedModel.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Composition.Convention.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Composition.Hosting.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Composition.Runtime.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Composition.TypedParts.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Interactive.Async.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Linq.Dynamic.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Net.Http.Formatting.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Numerics.Vectors.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Text.Encodings.Web.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Threading.Tasks.Extensions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Web.Http.WebHost.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\WebActivator.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\WebActivatorEx.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Build.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Build.Framework.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Build.Tasks.Core.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Build.Engine.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Build.Utilities.Core.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\AttributeRouting.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\AttributeRouting.Web.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\AttributeRouting.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\AutoMapper.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\EntityFramework.SqlServer.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Hosting.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Http.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Razor.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.CodeAnalysis.Workspaces.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.EntityFrameworkCore.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.CommandLineUtils.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Configuration.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Logging.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.ObjectPool.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Options.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Extensions.Primitives.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Net.Http.Headers.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.Practices.ServiceLocation.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Core.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Templating.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Utils.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Newtonsoft.Json.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Common.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Configuration.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.DependencyResolver.Core.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Frameworks.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.LibraryModel.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Packaging.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Packaging.Core.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Packaging.Core.Types.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.ProjectModel.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Protocol.Core.Types.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Protocol.Core.v3.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Repositories.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.RuntimeModel.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\NuGet.Versioning.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\Remotion.Linq.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\StructureMap.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\StructureMap.Net4.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\StructureMap.Web.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Composition.AttributedModel.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Composition.Convention.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Composition.Hosting.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Composition.Runtime.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Composition.TypedParts.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Interactive.Async.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Numerics.Vectors.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Text.Encodings.Web.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Threading.Tasks.Extensions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\WebActivator.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Net.Http.Formatting.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\bin\System.Web.Http.WebHost.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\obj\Debug\PWET.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\obj\Debug\PWET.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET\obj\Debug\PWET.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\obj\Debug\PWET.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\obj\Debug\PWET.csproj.CoreCompileInputs.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\roslyn\csc.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\roslyn\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\roslyn\vbc.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\roslyn\VBCSCompiler.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\roslyn\VBCSCompiler.exe.config
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\PWET.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\PWET.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\PWET.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\AttributeRouting.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\AttributeRouting.Web.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\AttributeRouting.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\AutoMapper.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\EntityFramework.SqlServer.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Marvin.JsonPatch.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Hosting.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Http.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Razor.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.DotNet.Cli.Utils.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.DotNet.InternalAbstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.DotNet.ProjectModel.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.EntityFrameworkCore.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.CommandLineUtils.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Configuration.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.DependencyModel.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Logging.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.ObjectPool.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Options.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Primitives.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Net.Http.Headers.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Practices.ServiceLocation.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Newtonsoft.Json.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Common.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Configuration.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.DependencyResolver.Core.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Frameworks.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.LibraryModel.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Packaging.Core.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Packaging.Core.Types.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Packaging.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.ProjectModel.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Protocol.Core.Types.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Protocol.Core.v3.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Repositories.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.RuntimeModel.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Versioning.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\PWET.Domain.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Remotion.Linq.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\StructureMap.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\StructureMap.Net4.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\StructureMap.Web.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Buffers.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Composition.AttributedModel.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Composition.Convention.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Composition.Hosting.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Composition.Runtime.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Composition.TypedParts.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Interactive.Async.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Linq.Dynamic.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Net.Http.Formatting.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Numerics.Vectors.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Text.Encodings.Web.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Threading.Tasks.Extensions.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Web.Http.WebHost.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\WebActivator.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\WebActivatorEx.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Build.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Build.Framework.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Build.Tasks.Core.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Build.Engine.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Build.Utilities.Core.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\PWET.Domain.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\AttributeRouting.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\AttributeRouting.Web.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\AttributeRouting.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\AutoMapper.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\EntityFramework.SqlServer.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Hosting.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Http.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Razor.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.CodeAnalysis.Workspaces.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.EntityFrameworkCore.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.CommandLineUtils.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Configuration.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Logging.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.ObjectPool.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Options.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Extensions.Primitives.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Net.Http.Headers.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.Practices.ServiceLocation.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Core.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Templating.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Microsoft.VisualStudio.Web.CodeGeneration.Utils.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Newtonsoft.Json.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Common.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Configuration.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.DependencyResolver.Core.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Frameworks.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.LibraryModel.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Packaging.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Packaging.Core.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Packaging.Core.Types.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.ProjectModel.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Protocol.Core.Types.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Protocol.Core.v3.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Repositories.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.RuntimeModel.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\NuGet.Versioning.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\Remotion.Linq.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\StructureMap.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\StructureMap.Net4.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\StructureMap.Web.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Composition.AttributedModel.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Composition.Convention.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Composition.Hosting.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Composition.Runtime.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Composition.TypedParts.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Interactive.Async.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Numerics.Vectors.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Text.Encodings.Web.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Threading.Tasks.Extensions.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\WebActivator.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Net.Http.Formatting.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\bin\System.Web.Http.WebHost.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\obj\Debug\PWET.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET\obj\Debug\PWET.pdb

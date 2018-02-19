@@ -1,0 +1,30 @@
+D:\CODE\Web Api Lab\PWET\V5\PWET.Constants\bin\Debug\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V5\PWET.Constants\bin\Debug\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V5\PWET.Constants\obj\Debug\PWET.Constants.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V5\PWET.Constants\obj\Debug\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V5\PWET.Constants\obj\Debug\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Constants\bin\Debug\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Constants\bin\Debug\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Constants\obj\Debug\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Constants\obj\Debug\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Constants\bin\Debug\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Constants\bin\Debug\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Constants\obj\Debug\PWET.Constants.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V8\PWET.Constants\obj\Debug\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Constants\obj\Debug\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Constants\bin\Debug\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Constants\bin\Debug\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Constants\obj\Debug\PWET.Constants.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V11\PWET.Constants\obj\Debug\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Constants\obj\Debug\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Constants\bin\Debug\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Constants\bin\Debug\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Constants\obj\Debug\PWET.Constants.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Constants\obj\Debug\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Constants\obj\Debug\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Constants\bin\Debug\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Constants\bin\Debug\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Constants\obj\Debug\PWET.Constants.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Constants\obj\Debug\PWET.Constants.csproj.CoreCompileInputs.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Constants\obj\Debug\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Constants\obj\Debug\PWET.Constants.pdb

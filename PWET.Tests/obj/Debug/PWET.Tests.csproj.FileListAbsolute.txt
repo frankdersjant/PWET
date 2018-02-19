@@ -1,0 +1,261 @@
+D:\CODE\Web Api Lab\PWET\V5\PWET.Tests\obj\Debug\PWET.Tests.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\obj\Debug\PWET.Tests.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\roslyn\csc.exe
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\roslyn\vbc.exe
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\PWET.Tests.dll.config
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\PWET.Tests.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\PWET.Tests.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\PWET.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\WebActivatorEx.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\System.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\AutoMapper.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\StructureMap.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\System.Linq.Dynamic.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\StructureMap.Net4.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\StructureMap.Web.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\PWET.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\PWET.dll.config
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\System.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\AutoMapper.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\StructureMap.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\StructureMap.Web.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\bin\Debug\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\obj\Debug\PWET.Tests.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Tests\obj\Debug\PWET.Tests.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\roslyn\csc.exe
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\roslyn\vbc.exe
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\PWET.Tests.dll.config
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\PWET.Tests.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\PWET.Tests.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\PWET.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\WebActivatorEx.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\System.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\AutoMapper.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\StructureMap.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\System.Linq.Dynamic.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\StructureMap.Net4.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\StructureMap.Web.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\PWET.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\PWET.dll.config
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\System.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\AutoMapper.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\StructureMap.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\StructureMap.Web.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\bin\Debug\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\obj\Debug\PWET.Tests.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\obj\Debug\PWET.Tests.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Tests\obj\Debug\PWET.Tests.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\roslyn\csc.exe
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\roslyn\vbc.exe
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\PWET.Tests.dll.config
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\PWET.Tests.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\PWET.Tests.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\PWET.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\WebActivatorEx.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\System.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\AutoMapper.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\StructureMap.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\System.Linq.Dynamic.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\StructureMap.Net4.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\StructureMap.Web.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\PWET.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\PWET.dll.config
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\System.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\AutoMapper.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\StructureMap.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\StructureMap.Web.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\bin\Debug\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\obj\Debug\PWET.Tests.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\obj\Debug\PWET.Tests.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Tests\obj\Debug\PWET.Tests.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\roslyn\csc.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\roslyn\vbc.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\PWET.Tests.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\PWET.Tests.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\PWET.Tests.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\PWET.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\WebActivatorEx.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\System.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\AutoMapper.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\StructureMap.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\Marvin.JsonPatch.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\System.Linq.Dynamic.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\StructureMap.Net4.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\StructureMap.Web.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\PWET.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\PWET.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\System.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\AutoMapper.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\StructureMap.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\StructureMap.Web.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\bin\Debug\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\obj\Debug\PWET.Tests.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\obj\Debug\PWET.Tests.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Tests\obj\Debug\PWET.Tests.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\obj\Debug\PWET.Tests.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\obj\Debug\PWET.Tests.csproj.CoreCompileInputs.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\roslyn\csc.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\roslyn\vbc.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\PWET.Tests.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\PWET.Tests.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\PWET.Tests.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\PWET.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\WebActivatorEx.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\System.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\AutoMapper.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\StructureMap.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\PWET.Domain.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\Marvin.JsonPatch.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\System.Linq.Dynamic.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\StructureMap.Net4.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\StructureMap.Web.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\PWET.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\PWET.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\System.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\AutoMapper.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\StructureMap.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\PWET.Domain.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\StructureMap.Web.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\bin\Debug\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\obj\Debug\PWET.Tests.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Tests\obj\Debug\PWET.Tests.pdb

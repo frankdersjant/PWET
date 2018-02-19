@@ -1,0 +1,416 @@
+D:\CODE\Web Api Lab\PWET\V5\PWET.Web\obj\Debug\PWET.Web.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\roslyn\csc.exe
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\roslyn\vbc.exe
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\roslyn\VBCSCompiler.exe
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\PWET.Web.dll.config
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\PWET.Web.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\PWET.Web.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Antlr3.Runtime.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\EntityFramework.SqlServer.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Security.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Newtonsoft.Json.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Owin.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Net.Http.Formatting.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.Helpers.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.Http.WebHost.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.Mvc.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.Optimization.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.Razor.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.WebPages.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.WebPages.Razor.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\WebGrease.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Net.Http.Formatting.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.Http.WebHost.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.Helpers.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.Mvc.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.Optimization.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.Razor.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.WebPages.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\System.Web.WebPages.Razor.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Antlr3.Runtime.pdb
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Newtonsoft.Json.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\EntityFramework.SqlServer.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Security.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\obj\Debug\PWET.Web.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\obj\Debug\PWET.Web.dll
+D:\CODE\Web Api Lab\PWET\V7\PWET.Web\obj\Debug\PWET.Web.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\roslyn\csc.exe
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\roslyn\vbc.exe
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\roslyn\VBCSCompiler.exe
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\PWET.Web.dll.config
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\PWET.Web.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\PWET.Web.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Antlr3.Runtime.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\EntityFramework.SqlServer.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Security.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Newtonsoft.Json.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Owin.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Net.Http.Formatting.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.Helpers.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.Http.WebHost.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.Mvc.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.Optimization.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.Razor.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.WebPages.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.WebPages.Razor.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\WebGrease.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Net.Http.Formatting.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.Http.WebHost.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.Helpers.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.Mvc.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.Optimization.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.Razor.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.WebPages.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\System.Web.WebPages.Razor.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Antlr3.Runtime.pdb
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Newtonsoft.Json.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\EntityFramework.SqlServer.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Security.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\obj\Debug\PWET.Web.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\obj\Debug\PWET.Web.dll
+D:\CODE\Web Api Lab\PWET\V8\PWET.Web\obj\Debug\PWET.Web.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\roslyn\csc.exe
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\roslyn\vbc.exe
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\roslyn\VBCSCompiler.exe
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\PWET.Web.dll.config
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\PWET.Web.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\PWET.Web.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Antlr3.Runtime.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\EntityFramework.SqlServer.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Security.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Newtonsoft.Json.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Owin.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Net.Http.Formatting.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.Helpers.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.Http.WebHost.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.Mvc.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.Optimization.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.Razor.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.WebPages.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.WebPages.Razor.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\WebGrease.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Net.Http.Formatting.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.Http.WebHost.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.Helpers.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.Mvc.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.Optimization.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.Razor.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.WebPages.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\System.Web.WebPages.Razor.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Antlr3.Runtime.pdb
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Newtonsoft.Json.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\EntityFramework.SqlServer.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Security.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\obj\Debug\PWET.Web.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\obj\Debug\PWET.Web.dll
+D:\CODE\Web Api Lab\PWET\V11\PWET.Web\obj\Debug\PWET.Web.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\roslyn\csc.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\roslyn\vbc.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\roslyn\VBCSCompiler.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\PWET.Web.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\PWET.Web.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\PWET.Web.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Antlr3.Runtime.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\EntityFramework.SqlServer.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Marvin.JsonPatch.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Security.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Newtonsoft.Json.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Owin.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Net.Http.Formatting.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.Helpers.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.Http.WebHost.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.Mvc.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.Optimization.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.Razor.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.WebPages.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.WebPages.Razor.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\WebGrease.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Net.Http.Formatting.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.Http.WebHost.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.Helpers.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.Mvc.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.Optimization.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.Razor.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.WebPages.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\System.Web.WebPages.Razor.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Antlr3.Runtime.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Newtonsoft.Json.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\EntityFramework.SqlServer.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Security.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\obj\Debug\PWET.Web.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\obj\Debug\PWET.Web.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\PWET.Web\obj\Debug\PWET.Web.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\obj\Debug\PWET.Web.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\obj\Debug\PWET.Web.csproj.CoreCompileInputs.cache
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\roslyn\csc.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\roslyn\vbc.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\roslyn\VBCSCompiler.exe
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\PWET.Web.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\PWET.Web.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\PWET.Web.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Antlr3.Runtime.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\EntityFramework.SqlServer.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Marvin.JsonPatch.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Security.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Newtonsoft.Json.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Owin.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\PWET.Constants.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\PWET.Domain.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\PWET.DTO.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\PWET.Repo.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Net.Http.Formatting.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.Helpers.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.Http.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.Http.WebHost.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.Mvc.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.Optimization.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.Razor.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.WebPages.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.WebPages.Razor.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\WebGrease.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\PWET.Constants.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\PWET.Domain.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\PWET.DTO.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\PWET.Repo.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\PWET.Repo.dll.config
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Net.Http.Formatting.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.Http.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.Http.WebHost.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.Helpers.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.Mvc.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.Optimization.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.Razor.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.WebPages.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\System.Web.WebPages.Razor.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Antlr3.Runtime.pdb
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Newtonsoft.Json.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\EntityFramework.SqlServer.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Security.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\obj\Debug\PWET.Web.dll
+D:\CODE\Web Api Lab\PWET\V15 Details\V3\PWET.Web\obj\Debug\PWET.Web.pdb

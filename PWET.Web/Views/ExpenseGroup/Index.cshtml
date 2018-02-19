@@ -1,0 +1,44 @@
+﻿@model PWET.Web.ViewModels.ExpenseGroupsViewModel
+@using PagedList.Mvc
+
+<h2>Expensegroups</h2>
+
+<p>
+    @Html.ActionLink("Create New ExpenseGroup", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Status</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.ExpenseGroup)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelitem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelitem => item.Description)
+            </td>
+            <td>
+                @(Model.ExpenseGroupStatus.First(p => p.Id == item.ExpenseGroupStatusId).Description)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+
+Page @(Model.PagingInfo.CurrentPage) of @Model.PagingInfo.TotalPages
+
+@Html.PagedListPager(Model.ExpenseGroup, page => Url.Action("Index", new { page }))
+
+
+

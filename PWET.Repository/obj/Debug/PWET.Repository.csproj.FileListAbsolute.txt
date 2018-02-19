@@ -1,0 +1,8 @@
+D:\CODE\Web Api Lab\PWET\PWET\PWET.Repository\obj\Debug\PWET.Repository.csprojResolveAssemblyReference.cache
+D:\CODE\Web Api Lab\PWET\PWET\PWET.Repository\bin\Debug\PWET.Repository.dll.config
+D:\CODE\Web Api Lab\PWET\PWET\PWET.Repository\bin\Debug\PWET.Repository.dll
+D:\CODE\Web Api Lab\PWET\PWET\PWET.Repository\bin\Debug\PWET.Repository.pdb
+D:\CODE\Web Api Lab\PWET\PWET\PWET.Repository\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\CODE\Web Api Lab\PWET\PWET\PWET.Repository\bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\CODE\Web Api Lab\PWET\PWET\PWET.Repository\obj\Debug\PWET.Repository.dll
+D:\CODE\Web Api Lab\PWET\PWET\PWET.Repository\obj\Debug\PWET.Repository.pdb
